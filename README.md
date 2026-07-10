@@ -1,3 +1,5 @@
 # gracebites
 
-Visit the project: https://github.com/itsezra0fficial1-debug/https-gracebites-com
+🌐 **Official Website:** https://itsezra0fficial1-debug.github.io/https-gracebites-com/
+
+Built with Lovable • Hosted on GitHub Pages
